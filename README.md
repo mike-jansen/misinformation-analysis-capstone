@@ -1,1 +1,9 @@
 # misinformation-analysis-capstone
+
+The pervasive spread of misinformation on the internet has become a pressing issue, as distinguishing between real and fake news becomes increasingly challenging. In response to this problem, this research project aimed to analyze the nature of misinformation and develop a machine learning model capable of effectively classifying and identifying fake news. By harnessing the power of machine learning, which can uncover subtle patterns unnoticeable by humans, the project sought to identify key indications of fake news.
+
+The project primarily focused on linguistic analysis, employing specialized tools to compute textual features of the text. These features were then utilized to compare datasets and topics, enabling a comprehensive examination of the characteristics of fake news. However, a notable finding emerged from this investigation. It was discovered that generalizing fake news proved to be a difficult task due to significant variations in textual features based on the platform, source, and topic of the text. Consequently, a consistent and reliable approach to predict misinformation was increasingly difficult.
+
+This research project holds significant importance due to the rising impact of misinformation on society. By attempting to develop a machine learning model that could accurately identify fake news, it aimed to contribute to the ongoing efforts in combating the dissemination of false information. While the findings revealed the challenges in achieving a universal prediction mechanism, they shed light on the complex dynamics underlying the spread of fake news across different contexts, sources, and topics.
+
+![image](https://github.com/mike-jansen/misinformation-analysis-capstone/assets/58920103/2c398ffb-89a4-4935-9635-a8e0274156aa)
